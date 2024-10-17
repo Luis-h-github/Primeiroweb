@@ -14,7 +14,7 @@ Configurar_Pagina("Exemplo 1",
 st.title("Criando um aplicativo do zero")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("primeiro para para o desenvolvimento")
+st.header("primeiro passo para o desenvolvimento")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("vamos começar seguindo a seguinte instrução")
