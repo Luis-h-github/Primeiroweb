@@ -11,7 +11,7 @@ Configurar_Pagina("Exemplo 1",
                     "©️")
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Criando um aplicativo do zero")
+st.title("Criando um APP do zero")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Passo a passo para o desenvolvimento")
