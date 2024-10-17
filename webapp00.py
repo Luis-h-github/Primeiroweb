@@ -14,6 +14,3 @@ st.subheader("Primeiro passo")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
-df = pd.read_csv('data.csv')
-
-print(df.to_string()) 
