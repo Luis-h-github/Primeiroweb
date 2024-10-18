@@ -1,6 +1,9 @@
 # MEU PRIMEIRO WEB APP
 import streamlit as st
 from ACTlib01 import *
+url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSmbAW7snoqGh4OjB0UGM_TgmlxcwGFi6oOFlsctq0KtDrusNHF-iodk9_yXOJuPBkeBdf6jzvh1H7W/pub?gid=414383360&single=true&output=csv"
+db = Ler_GooglePlanilha(url)
+Escrever(db)
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("Criando um APP do zero")
